@@ -12,7 +12,7 @@ Inside the container, there are multiple 'div' elements with the class info to h
 ![image](https://github.com/kaverichougule/CSS_Typography/assets/101037685/647a4e91-3e72-4828-92a5-72449aa5d18e)
 Each info section includes headings ('h2') and paragraphs ('p') to display the content. <br>
 
-![image](https://github.com/kaverichougule/CSS_Typography/assets/101037685/018f67c6-d5f6-47c6-bf86-1bfc59a78aa8)
+![image](https://github.com/kaverichougule/CSS_Typography/assets/101037685/018f67c6-d5f6-47c6-bf86-1bfc59a78aa8) <br>
 There's also an 'iframe' element embedded in one of the info sections to display a YouTube video. <br>
 
 style.css <br>
